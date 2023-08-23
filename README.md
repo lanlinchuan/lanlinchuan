@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <!--
 **lanlinchuan/lanlinchuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%2Cthis+is+my+profile;My+name+is+LawrenceLan;I'm+still+a+noob;But+from+today%2CI+will+start+to+work+hard+to+learn+programming+skills)](https://git.io/typing-svg)
